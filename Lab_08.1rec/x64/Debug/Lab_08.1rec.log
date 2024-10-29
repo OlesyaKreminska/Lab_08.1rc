@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2176,5): warning : The referenced project '..\UnitTest08.1\UnitTest08.1.vcxproj' does not exist.
+  Lab_08.1rec.cpp
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1rec\Lab_08.1rec\Lab_08.1rec.cpp(1,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+      C:\Users\Iryna Kreminska\source\repos\Lab_08.1rec\Lab_08.1rec\Lab_08.1rec.cpp(1,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  Lab_08.1rec.vcxproj -> C:\Users\Iryna Kreminska\source\repos\Lab_08.1rec\x64\Debug\Lab_08.1rec.exe
